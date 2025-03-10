@@ -1,0 +1,7 @@
+name = "GLMPlots"
+uuid = "5cd3cac4-82c3-4c4e-ade1-d48d59b4725e"
+authors = []
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6.7"
