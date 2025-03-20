@@ -13,6 +13,7 @@ StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
 
 [compat]
 Distributions = "0.25.117"
+GLM = "1"
 LinearAlgebra = "1.11.0"
 RecipesBase = "1.3.4"
 Statistics = "1.11.1"
@@ -24,4 +25,4 @@ StableRNGs = "860ef19b-820b-49d6-a774-d7a799459cd3"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
-test = ["StatsPlots", "StableRNGs","Test"]
+test = ["StatsPlots", "StableRNGs", "Test"]
